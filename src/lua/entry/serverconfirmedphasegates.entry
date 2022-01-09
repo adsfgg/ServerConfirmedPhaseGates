@@ -1,0 +1,4 @@
+modEntry = {
+    FileHooks   = "lua/SCPG_FileHooks.lua",
+    Priority    = 50
+}
