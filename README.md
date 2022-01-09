@@ -1,2 +1,2 @@
 # ServerConfirmedPhaseGates
-NS2 Mod to make phase gates server confirmed
+NS2 Mod to make PhaseGates server confirmed
